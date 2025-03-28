@@ -158,7 +158,7 @@ pin_cand_filter:
   # - i 在 custom_phrase 置顶了 一 以 已 亦
   - o	哦
   - p	片 篇
-  - a	啊
+  # - a	啊
   - s	是 时 使 式
   - d	的 地 得
   - f	发 放 分
@@ -166,10 +166,10 @@ pin_cand_filter:
   - h	和 或
   - j	及 将 即 既 继
   - k	可
-  - l	了 啦 喽 嘞
+  # - l	了 啦 喽 嘞
   - z	在 再 自
   - x	想 像 向
-  - c	才 从
+  # - c	才 从
   # - v
   - b	吧 把 呗 百
   - n	那 哪 拿 呐
